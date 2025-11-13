@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.2.8
+
+- Fixed an issue with displaying `vector` column values.
+
 ## 1.2.7
 
 - Enhanced range selection for copying/pasting data between cells.
