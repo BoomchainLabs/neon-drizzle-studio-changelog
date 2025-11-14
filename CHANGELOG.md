@@ -2,6 +2,10 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.2.9
+
+- Fixed an issue with `json` cell values being copied in the wrong format.
+
 ## 1.2.8
 
 - Fixed an issue with displaying `vector` column values.
