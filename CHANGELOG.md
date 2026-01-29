@@ -2,6 +2,11 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.3.0
+
+- Fixed issue with uppercase letters in enum column types.
+- Fixed issue with adding foreign keys.
+
 ## 1.2.9
 
 - Fixed an issue with `json` cell values being copied in the wrong format.
