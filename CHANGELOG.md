@@ -2,6 +2,15 @@
 
 This changelog documents updates and fixes for the Drizzle Studio integration that powers the **Tables** page in the Neon Console.
 
+## 1.3.2
+
+- Fixed regression in validation caused by zod upgrade.
+
+## 1.3.1
+
+- Removed the error stack trace from the error page.
+- Added a `error-fallback-component` slot for a custom error page.
+
 ## 1.3.0
 
 - Fixed issue with uppercase letters in enum column types.
